@@ -11,7 +11,7 @@ This report analyses recent TMDB ‘popular’ films and television series to re
 
 - 🌍 **en** remains the dominant original language by volume on the ‘popular’ endpoint.
 
-- 💡 Strong recent **sentiment and popularity** observed in: **es, ja, en**.
+- 💡 Strong recent **sentiment and popularity** observed in: **zh, es, en**.
 
 
 ---
@@ -21,9 +21,10 @@ This report analyses recent TMDB ‘popular’ films and television series to re
 
 | Language   |   Average Popularity |   Average Sentiment |   No. of Titles |
 |:-----------|---------------------:|--------------------:|----------------:|
-| es         |              42.3737 |          0.0379507  |              21 |
-| ja         |              71.4707 |          0.00784089 |              21 |
-| en         |              81.1021 |         -0.00434251 |             149 |
+| zh         |              54.0383 |           0.0243093 |              11 |
+| es         |              36.8002 |           0.0230595 |              16 |
+| en         |              61.3264 |          -0.0169886 |             150 |
+| ja         |              86.0252 |          -0.0332503 |              18 |
 
 
 
@@ -34,21 +35,21 @@ This report analyses recent TMDB ‘popular’ films and television series to re
 
 | Genre              |   No. of Titles |   Average Popularity |   Average Rating |   Average Sentiment |
 |:-------------------|----------------:|---------------------:|-----------------:|--------------------:|
-| Drama              |             281 |              49.0112 |          7.56409 |          0.0379198  |
-| Comedy             |             160 |              50.421  |          7.34912 |          0.080243   |
-| Action             |             110 |              74.1266 |          7.07754 |         -0.0154459  |
-| Crime              |             109 |              56.2057 |          7.67304 |         -0.0124529  |
-| Animation          |              98 |              51.2615 |          7.86119 |          0.0863255  |
-| Action & Adventure |              89 |              45.0829 |          7.987   |          0.0621579  |
-| Adventure          |              86 |              62.2625 |          7.30177 |          0.041539   |
-| Sci-Fi & Fantasy   |              85 |              56.4125 |          8.11152 |          0.0431987  |
-| Thriller           |              79 |              72.0094 |          6.95882 |         -0.0689807  |
-| Mystery            |              74 |              53.2772 |          7.71553 |          0.00873308 |
-| Science Fiction    |              58 |              85.5378 |          7.16572 |          0.0198019  |
-| Horror             |              54 |              46.8554 |          6.40441 |         -0.0784417  |
-| Family             |              53 |              48.0535 |          7.40804 |          0.0935718  |
-| Romance            |              51 |              38.6453 |          6.75225 |          0.116734   |
-| Fantasy            |              48 |              44.9769 |          7.23256 |          0.0242766  |
+| Drama              |             290 |              47.9131 |          7.53365 |          0.0415068  |
+| Comedy             |             156 |              44.1872 |          7.26319 |          0.0786605  |
+| Crime              |             112 |              56.6908 |          7.63533 |          0.00231669 |
+| Action             |             111 |              57.0696 |          7.09678 |         -0.0194932  |
+| Animation          |              91 |              47.0447 |          7.88653 |          0.096853   |
+| Action & Adventure |              87 |              47.3857 |          8.0266  |          0.0594392  |
+| Sci-Fi & Fantasy   |              85 |              52.7815 |          8.11819 |          0.0437991  |
+| Mystery            |              83 |              56.3035 |          7.70336 |          0.0162626  |
+| Adventure          |              80 |              43.8913 |          7.32986 |          0.048431   |
+| Thriller           |              78 |              64.6122 |          6.76031 |         -0.0489325  |
+| Fantasy            |              57 |              50.6684 |          7.31796 |          0.0702121  |
+| Family             |              56 |              37.0563 |          7.42429 |          0.143506   |
+| Romance            |              56 |              33.931  |          6.67402 |          0.139034   |
+| Science Fiction    |              48 |              55.5129 |          7.22596 |         -0.0243303  |
+| Horror             |              43 |              62.9842 |          6.37214 |         -0.108347   |
 
 
 
