@@ -135,7 +135,6 @@ This project demonstrates:
 - **Natural language processing (NLP)**: using sentiment as a proxy for audience reception  
 - **Communication**: producing a stakeholder-ready report with findings and recommendations  
 
-📌 *This mirrors the workflow of data analyst roles in media, entertainment, and marketing — making it ideal for a student portfolio or internship application.*  
 
 ---
 
