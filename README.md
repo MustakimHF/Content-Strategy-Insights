@@ -114,8 +114,15 @@ python scripts/make_report.py
 **Average Ratings Over Time (Films vs Television)**  
 ![Average Ratings Over Time](outputs/plots/avg_rating_over_time.png)  
 
+**Sentiment vs Popularity**  
+![Top Languages](outputs/plots/sentiment_vs_popularity.png)  
+
 **Top Languages by Volume**  
 ![Top Languages](outputs/plots/top_languages.png)  
+
+**Top Genres**  
+![Top Languages](outputs/plots/top_genres.png)  
+
 
 ---
 
