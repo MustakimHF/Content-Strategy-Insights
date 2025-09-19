@@ -1,10 +1,4 @@
 __pycache__/
 .env
-data/
-outputs/
-!outputs/plots/*.png
-!outputs/reports/
-!outputs/reports/data/
-!outputs/reports/data/*.csv
 venv/
 *.ipynb_checkpoints
