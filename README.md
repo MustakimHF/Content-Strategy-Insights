@@ -112,10 +112,10 @@ python scripts/make_report.py
 ## 📊 Example Visuals  
 
 **Average Ratings Over Time (Films vs Television)**  
-![Average Ratings Over Time](assets/plots/avg_rating_over_time.png)  
+![Average Ratings Over Time](outputs/plots/avg_rating_over_time.png)  
 
 **Top Languages by Volume**  
-![Top Languages](assets/plots/top_languages.png)  
+![Top Languages](outputs/plots/top_languages.png)  
 
 ---
 
